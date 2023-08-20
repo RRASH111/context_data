@@ -1,0 +1,20 @@
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore system and temporary files
+*.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore configuration files
+config.py
+
+# Ignore virtual environments (if you use them)
+venv/
+env/
+.env/
+
+# Ignore data and files generated during execution
+data/
+index.json
