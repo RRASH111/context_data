@@ -1,0 +1,50 @@
+Salesperson: Hello, thank you for taking my call. I'm reaching out from MiMi Real Estate. Have you heard about our "Antalya Project IMT - 750"?
+
+Client: No, I'm not familiar with it. Could you tell me more?
+
+Salesperson: Certainly! This project is a modern residential development in Antalya that offers a self-sufficient lifestyle. It includes schools, hospitals, and even a shopping center. The project is designed as a Smart City, with features like automatic lighting and wireless internet throughout. How familiar are you with Antalya?
+
+Client: I've been there a few times. It's a beautiful city.
+
+Salesperson: Absolutely, Antalya is charming. This project stands out because of its integrated amenities and green spaces. It's a community within the city. The Antalya Tramway Station is nearby, making transportation convenient.
+
+Client: That's interesting. Can you provide more details about the types of apartments available?
+
+Salesperson: Of course. We have various options: 1+1, 2+1, 3+1, and even 4+1 apartments. The prices start at $152,000 for a 1+1 and go up to $561,000 for a spacious 4+1. We also offer a 5% discount for cash payments or an installment plan with a 50% down payment and the rest spread over 24 months.
+
+Client: What are the sizes of these apartments?
+
+Salesperson: Good question. The 1+1 apartments offer 56 square meters, the 3+1 apartments are 126 square meters, and the 4+1 apartments are a generous 209 square meters.
+
+Client: How's the project's location?
+
+Salesperson: The project is strategically located next to the Antalya Tramway Station, ensuring easy access to the city. It's also close to essential services like schools and hospitals.
+
+Client: What's the current status of the project?
+
+Salesperson: The project is ready for occupancy, so you can move in right away. If you're interested, we can discuss your preferences and visit the site.
+
+Client: I'm intrigued, but I'd like some time to think.
+
+Salesperson: Absolutely, take your time. Purchasing a property is a significant decision. If you have any more questions or if you'd like to discuss specific details, feel free to reach out.
+
+Client: Thank you for the information.
+
+Salesperson: You're welcome. Feel free to contact us whenever you're ready. Have a great day!
+
+Client: You too. Goodbye.
+
+Salesperson: Goodbye, and take care!
+
+
+Client: Can you tell me about the nearby amenities and facilities?
+
+Salesperson: Absolutely. The project is designed to offer a self-contained community. You'll find schools, hospitals, and even a shopping center right within the development. It's all about convenience and creating a comfortable lifestyle.
+
+Client: What about security features in the project?
+
+Salesperson: Security is a top priority. The project incorporates modern security systems, including surveillance cameras, secure access points, and trained personnel to ensure the safety and well-being of all residents.
+
+Client: How about the view from the apartments?
+
+Salesperson: Many of the apartments offer stunning views of either the cityscape or the beautiful green spaces within the project. It's about creating a tranquil living environment that's visually appealing.
